@@ -1,4 +1,2 @@
-# Box-office-prediction
-Prediction of films box office revenue
-
+# TMDB Box Office Prediction
 Kaggle competition https://www.kaggle.com/c/tmdb-box-office-prediction
